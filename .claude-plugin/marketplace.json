@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "daa-skills",
+  "description": "Declarative Action Architecture (DAA) skills for E2E automation testing",
+  "owner": {
+    "name": "Giga Chang",
+    "email": "gigayaya@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "DAA-Master",
+      "description": "Declarative Action Architecture (DAA) — a strict three-layer separation pattern for E2E automation testing. Provides skills for generating, reviewing, and architecting DAA-compliant test code.",
+      "source": "./plugins/DAA-Master"
+    }
+  ]
+}

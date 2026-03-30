@@ -1,0 +1,10 @@
+{
+  "name": "DAA-Master",
+  "version": "1.0.0",
+  "description": "Declarative Action Architecture (DAA) — a strict three-layer separation pattern for E2E automation testing. Provides skills for generating, reviewing, and architecting DAA-compliant test code.",
+  "author": {
+    "name": "Giga Chang",
+    "email": "gigayaya@gmail.com"
+  },
+  "license": "Apache-2.0"
+}
